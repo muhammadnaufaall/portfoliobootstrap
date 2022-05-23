@@ -4,6 +4,11 @@
     font-family: 'Inter', sans-serif;
 }
 
+body, html{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
 #particles-js{
     height: 100vh;
     width: 100%;
